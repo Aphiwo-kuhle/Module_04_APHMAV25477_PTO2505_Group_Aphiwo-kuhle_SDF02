@@ -1,14 +1,44 @@
-# [SDF02] Challenge: CS Cat HTML Portfolio 😼
+# Aphiwokuhle Mavimbela | HTML Portfolio
 
-Congratulations on completing the course content! You've made incredible progress and gained valuable knowledge along the way. As you now start on your project, remember that this is your opportunity to showcase everything you've learned. 
+This is my first professional portfolio webpage built using **only HTML** as part of the [SDF02] CS Cat HTML Portfolio Challenge from CodeSpace Academy.
 
-This challenge is all about building a **portfolio webpage** for CodeSpace Cat using structured **HTML** and your own **custom CSS**.  
+## 📌 Project Overview
 
-Approach it with confidence and creativity, you've got this! While you'll encounter challenges, remember that each obstacle is an opportunity to grow. Stay focused, believe in your abilities, and don't hesitate to ask for help from peers and your coach. You're almost at the finish line for this Module.
+The goal of this project was to build a structured and semantic HTML page that replicates the **CodeSpace Cat Portfolio**. The webpage includes:
+
+- A navigation bar
+- About Me section
+- Skills list
+- Project portfolio with images
+- Contact form with email functionality
+- Footer with links to GitHub and LinkedIn
 
 
-## 📖 Challenge Brief  
+## 🛠️ Technologies Used
 
-All project instructions, requirements, and submission details can be found in the **challenge brief**. Make sure to read it carefully before you start. 
+- HTML5
+- Semantic Elements
+- Mailto Forms
+- Image Linking (Absolute and Relative)
 
-🔗 You will find the Challenge Brief in this repo in a markdown file called `CHALLENGE-BRIEF.MD`
+## 🔗 Live Demo
+
+> *(Optional)*  
+> If hosted on GitHub Pages, include your live link here:  
+> [View Portfolio](https://aphiwo-kuhle.github.io/Module_04_APHMAV25477_PTO2505_GroupA_Aphiwo-kuhle_SDF02/)
+
+
+## 📷 Screenshots
+
+![Screenshot of Project](images/cat-project.jpg)
+
+## 📬 Contact
+
+- **Email:** [aphiwokuhlem2223@gmail.com](mailto:aphiwokuhlem2223@gmail.com)  
+- **LinkedIn:** [Aphiwokuhle Mavimbela](https://www.linkedin.com/in/aphiwokuhle-mavimbela-78a6b836a)  
+- **GitHub:** [Aphiwo-kuhle](https://github.com/Aphiwo-kuhle)
+
+---
+
+> ✅ *This project was completed as part of the SDF02 Portfolio Challenge. All requirements, including semantic structure, working navigation, images, and contact form, have been fulfilled.*
+
